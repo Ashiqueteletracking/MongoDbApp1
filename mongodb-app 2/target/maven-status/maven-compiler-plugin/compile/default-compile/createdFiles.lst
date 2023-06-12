@@ -1,0 +1,4 @@
+com/example/mongo2/Controller/StaffController.class
+com/example/mongo2/Repository/StaffRepository.class
+com/example/mongo2/mongodbapp/MongodbAppApplication.class
+com/example/mongo2/Entity/Staff.class
